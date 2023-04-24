@@ -1,0 +1,4 @@
+﻿  Snake_v1.1.cpp
+C:\PRJs\CPLUSPLUS_PRJs\Snake_v1.1\Snake_v1.1\Snake.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\PRJs\CPLUSPLUS_PRJs\Snake_v1.1\Snake_v1.1\Snake.h(153,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake_v1.1.vcxproj -> C:\PRJs\CPLUSPLUS_PRJs\Snake_v1.1\x64\Debug\Snake_v1.1.exe
